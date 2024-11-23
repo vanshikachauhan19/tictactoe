@@ -14,10 +14,7 @@ A simple and interactive **Tic-Tac-Toe** game built using Python's `tkinter` lib
 ---
 
 ## Demo 🖥️
-![Tic-Tac-Toe Demo Screenshot](https://via.placeholder.com/600x400?text=Game+Demo)  
-*Coming Soon: GIF of gameplay.*
-
----
+![image alt](https://github.com/vanshikachauhan19/tictactoe/blob/226db29eede26f6e6740d6343c384c3f2d6562c8/Screenshot%202024-11-23%20163044.png)
 
 ## Getting Started 🚀
 
